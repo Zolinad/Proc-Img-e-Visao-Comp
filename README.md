@@ -1,1 +1,13 @@
 # Proc-Img-e-Visao-Comp
+
+## Descrição do Projeto:
+texto...
+
+## Instruções de Instalação: 
+texto...
+
+## Instruções de Uso:
+texto...
+
+## Créditos:
+texto...
